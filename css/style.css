@@ -15,7 +15,7 @@ body, html {
   min-width: 400px;
   padding: 10px;
   margin: 10px auto;
-  background: linear-gradient()
+  background: linear-gradient(#e66465, #9198e5);
 }
 
 h4 {
